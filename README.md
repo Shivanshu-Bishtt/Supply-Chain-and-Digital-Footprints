@@ -1,12 +1,12 @@
 # Supply-Chain-and-Digital-Footprints
-## 🧠 Project Summary
+##  Project Summary
 Streamline & Spotlight is a data analytics case study developed using datasets provided by DataCo Analysis Group, a business analytics consultancy. The project explores the relationship between supply chain performance and digital consumer behavior, demonstrating how insights from operational and digital data can be combined to support strategic business decisions.
 
 Using advanced Microsoft Excel techniques, this project covers the full analytics lifecycle: data cleaning, integration, analysis, and visualization. The final deliverable is an interactive Excel dashboard designed to help stakeholders assess supply chain efficiency, customer engagement, and their interdependencies.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The objective of this project is to transform raw supply chain and digital access data into actionable business insights. The key goals include:
 
 - Cleaning and standardizing large, raw datasets  
@@ -17,7 +17,7 @@ The objective of this project is to transform raw supply chain and digital acces
 
 ---
 
-## 📂 Datasets
+##  Datasets
 - **DataCoSupplyChainDataset.csv**  
   Contains supply chain data such as sales figures, logistics details, order fulfillment status, and delivery performance.
 
@@ -26,7 +26,7 @@ The objective of this project is to transform raw supply chain and digital acces
 
 ---
 
-## 🛠 Tools & Skills Demonstrated
+##  Tools & Skills Demonstrated
 ### Tools
 - Microsoft Excel  
   - Power Query  
