@@ -66,3 +66,8 @@ This project demonstrates how integrating operational and digital data can:
 - Improve visibility into customer behavior  
 - Align logistics performance with digital marketing strategies  
 - Enable data-driven decision-making across teams  
+
+## Dataset Access
+Due to GitHub file size limits, the dataset is hosted externally.
+
+- Banking Dataset (Excel, 120 MB): [Download here](https://drive.google.com/file/d/1hbL1LgMrSIamVmj9A_MCAH13EVAEZ6K4/view)
