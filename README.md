@@ -43,7 +43,7 @@ The objective of this project is to transform raw supply chain and digital acces
 
 ---
 
-## 📈 Key Work Performed
+## Key Work Performed
 - Cleaned and integrated raw datasets, reducing inconsistencies and duplicate records  
 - Built analytical views to evaluate supply chain performance and digital engagement  
 - Analyzed relationships between delivery efficiency and customer online behavior  
@@ -51,7 +51,7 @@ The objective of this project is to transform raw supply chain and digital acces
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Supply chain KPIs including orders, fulfillment rates, and delivery performance  
 - Digital engagement metrics derived from access logs  
 - Combined views linking operational performance with online activity  
@@ -59,7 +59,7 @@ The objective of this project is to transform raw supply chain and digital acces
 
 ---
 
-## 💡 Business Value
+## Business Value
 This project demonstrates how integrating operational and digital data can:
 
 - Identify inefficiencies in supply chain processes  
